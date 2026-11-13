@@ -14,6 +14,7 @@
   <summary>interests</summary>
   <p>date everything</p>
   <p>parkour civilization</p>
+  <p>the walking dead (game)</p>
   <p>minecraft story mode</p>
   <p>your turn to die</p>
   <p>deltarune</p>

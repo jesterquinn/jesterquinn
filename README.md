@@ -17,6 +17,7 @@
   <p>minecraft story mode</p>
   <p>your turn to die</p>
   <p>deltarune</p>
+  <p>dispatch</p>
 </details>
 
 <hr>
